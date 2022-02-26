@@ -14,5 +14,6 @@ package com.mthree;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Elizabeth!");
+        System.out.println("My name is Harry!");
     }
 }
