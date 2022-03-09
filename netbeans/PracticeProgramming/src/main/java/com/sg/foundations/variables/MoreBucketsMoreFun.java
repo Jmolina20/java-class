@@ -27,6 +27,10 @@ public class MoreBucketsMoreFun {
             System.out.println("Uh oh, my dog ate one.");
             butterflies--;
             System.out.println("Now there are only " + butterflies + " butterflies left.");
+            System.out.println("But there are still " + bugs + " bugs left ....");
+            System.out.println("Wait a minute!");
+            System.out.println("... Maybe my computer can't do math, after all!");
+            
         }
     
 }
